@@ -604,13 +604,15 @@ padding: 0;
     .charts .box,
     .charts .box-copy {
         position: relative;
-      width: 135px;
+      width: 145px;
       height: 200px;
       display: box;
       /* margin: 5% auto auto auto; */
     transform: translateY(-40%);
     }
-    
+    .graghs .box .rang{
+        font-size: 9px;
+    }
   
     
 }
