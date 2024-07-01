@@ -601,6 +601,9 @@ padding: 0;
 /* participation  */
 
 @media (min-width:375px){
+    .charts{
+        background-color: red;
+    }
     .charts .box,
     .charts .box-copy {
         position: relative;
