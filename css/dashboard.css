@@ -599,3 +599,18 @@ padding: 0;
 
 }
 /* participation  */
+
+@media (min-width:375px){
+    .charts .box,
+    .charts .box-copy {
+        position: relative;
+      width: 135px;
+      height: 200px;
+      display: box;
+      /* margin: 5% auto auto auto; */
+    transform: translateY(-40%);
+    }
+    
+  
+    
+}
